@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/802ed5b6-6916-4771-bb25-6a15dde9e8f7)
-
 # Medium Clone App
 
 This is a project for building a Medium-style application using **Jetpack Compose** and a **feature-based multi-modular architecture** in Kotlin. The app includes authentication, article management, a user profile, and a search function.
